@@ -1,0 +1,16 @@
+# Accidentally created local config folder (contains Claude session files)
+%USERPROFILE%/
+
+# Build outputs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+build/
+
+# Editor / OS
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
